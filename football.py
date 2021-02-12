@@ -1,7 +1,5 @@
 football=(input())
-a=0
-b=0
-c=0
+a=b=c=0
 for i in range(len(football)):
     if (football[i]=='1'):
         a+=1
